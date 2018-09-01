@@ -1,0 +1,26 @@
+.titulo_principal{
+    color: red;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bold-style{
+    font-weight: bold;
+}
+
+.conteudo{
+    width: 75%;
+    height: auto;
+    font-size: 17px;
+    margin: auto;
+}
+
+.red_color{
+    color: red;
+}
+
+.green_color{
+    color:#00FF00;
+}
